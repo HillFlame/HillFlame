@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HillFlame.
-- 👀 I’m interested in chess, Python coding, ethical hacking, and more!
+- 👀 I’m interested in chess and more!
 - 🌱 I’m currently learning AP Computer Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
